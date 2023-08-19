@@ -18,13 +18,22 @@
 <br>
 
 
-<div display="inline">
+<div display="inline-block">
 <a href="https://github.com/anuraghazra/convoychat"></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasZanini096&show_icons=true&theme=midnight-purple">
 <br>
 <br> 
 <a href="https://github.com/anuraghazra/convoychat"></a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasZanini096&layout=compact&langs_count=8&card_width=385px&theme=midnight-purple"/>
+</div>
+
+<br>
+<div display="inline">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
 <!--
