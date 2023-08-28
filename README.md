@@ -1,6 +1,5 @@
 ### Olá, meu nome é Lucas Zanini da Silva
 
-<img src="C:\Users\32322992\Pictures\Capturar3.PNG">
 
 🖥Desenvolvedor Front-Engine e Cientista de Dados<br>
 📕Estudante da Universidade Prebiteriana Mackenzie<br>
