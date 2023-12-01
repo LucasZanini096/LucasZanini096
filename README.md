@@ -1,11 +1,11 @@
 ### Olá, meu nome é Lucas Zanini da Silva
 
 
-🖥Desenvolvedor Front-Engine e Cientista de Dados<br>
+🖥Desenvolvedor Front-Engine e Analista de Dados<br>
 📕Estudante da Universidade Prebiteriana Mackenzie<br>
 <br>
 
-<img src="https://www.canva.com/design/DAF1g-74P0I/LlnjsTMuKTyZCHhnPoW1lA/edit?utm_content=DAF1g-74P0I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> </img> 
+<img src="https://lh3.googleusercontent.com/pw/ADCreHdruzISsjV2uzZk0Kscc62nzl6EMHlPrMAyGY3Ft9Mr4y6XzSspIwSdV-dLBUaxXXenuvuPLG3WFqS5m6-mjXWTETuVX3ScYQ5bpmbbHqQC0ImK_AetJReL3eW5nNNsK9-dD8UpfF7M_Rl1bqlZXoTWBKSaOzwx5pjJGwCowQmVqRr4ASd4yxmIKCcmWBLZIpiwkOYbZzgTNHMahtD3T5O3RjvSZa3H2BLCaa_srHj5Al4pCHOqPdXpIIvKA6Hbu37M9zoDjoVZEHWsNNPIonBsAt6dcmGI0ZnNuHSxGg1k6-EAquAKGfOKfIQwTYlrzXvjCooWEVGMiY9x2Ryj3a5aI4BqoFcO3ASnsYXa-ERrkejJ04_t1Bgi5Ic_17cllANjayOYrUN-f1xGK2PMGIA8Lu5moOzwebcWESKg_yL0_SJWWZzf4EbJSs5YauE-1ILFR6ge13w935aBuB5uM-1pPxF8nQkhsDPVNpao7X6vslMJx5lt1FJ9TY7ZEQmGSTLdfXASXu4lLEpoh-_X5WLpfbAs9U5RrLAVm3EqI-AAryZW49MZqiaHMMFxnSnNUbroH51M07HStSKCcna1VngUPWpdNTlyqwlqO9SIwG5woOY2gs0Kq6rnSTY8U3w0qGzYpdmq83xtr1M3EsfQHwZuQRWIvEzqtvHh9sL-yA3_tOhSj_bwpWFyRHtgmYhvXm5i2rpp-ygHv8cqJr0rRax1hvDP8KMu-SrUgmebPaxlRh76wmU1skMk2yydI4HpqiwuPpa_gojMcZmeGitp3zuuFDKokITSTErXxzuYuKdndNhcQCo4EiyXs7CMrJR6-DJlnqZOf_JRCT35yjv_MLbyUAi60Dg55bkzJNNDMZfj7vyLFvyUmTfg6-YaY2yU2EmRJQaDLKt40WlcVeVolpRXF8YvmCVUO9ncDXchAwA=w1666-h938-s-no-gm?authuser=0"> </img> 
 
 <h2>Meu progresso</h2>
 <div display="inline-block">
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
+   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
