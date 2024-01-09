@@ -5,7 +5,7 @@
 📕Estudante da Universidade Prebiteriana Mackenzie<br>
 <br>
 
-<img src="https://photos.app.goo.gl/xaap8tWh4JhZ4kb28"> </img> 
+<img src="https://img.freepik.com/vetores-gratis/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_39422-971.jpg"> </img> 
 
 <h2>Meu progresso</h2>
 <div display="inline-block">
